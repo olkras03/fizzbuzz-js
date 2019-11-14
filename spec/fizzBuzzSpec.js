@@ -36,7 +36,6 @@ describe("fizzbuzz", function() {
     });
   });
 
-
   describe("all other numbers", function() {
     it("1 for 1", function() {
       expect(fizzBuzz.play(1)).toEqual(1);

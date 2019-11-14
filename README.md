@@ -1,4 +1,4 @@
-FizzBuzz in JavaScript
+## FizzBuzz in JavaScript ##
 
 In this challenge, you will test-drive FizzBuzz in JavaScript, using Jasmine.
 
@@ -10,9 +10,9 @@ In this challenge, you will test-drive FizzBuzz in JavaScript, using Jasmine.
 
 - [x] If a number is divisible by 5 print "Buzz" instead
 
-- [ ] If a number is divisible by 3 and 5 print "FizzBuzz" instead
+- [x] If a number is divisible by 3 and 5 print "FizzBuzz" instead
 
-Learning Objectives covered
+## Learning Objectives covered ##
 
 Use Jasmine to Test-Drive Development
 
