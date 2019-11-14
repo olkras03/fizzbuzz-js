@@ -26,6 +26,16 @@ describe("fizzbuzz", function() {
     });
   });
 
+  describe("multiples of 3 and 5", function() {
+    it("fizzbuzzes for 15", function() {
+      expect(fizzBuzz.play(5)).toEqual("FizzBuzz");
+    });
+
+    it("fizzbuzzes for 30", function() {
+      expect(fizzBuzz.play(10)).toEqual("FizzBuzz");
+    });
+  });
+
 
   describe("all other numbers", function() {
     it("1 for 1", function() {
